@@ -1,0 +1,13 @@
+{
+  "name": "ai-phone-agent",
+  "version": "1.0.0",
+  "description": "AI telefonrobot for bedrifter",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}
